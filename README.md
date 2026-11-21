@@ -71,11 +71,14 @@ Para ejecutar las pruebas de reservas:
 python pruebas_reservas.py
 ```
 
-## 8. Autor
 
-**Cristian Roberto**
+## 8. Autores
+
+- Cristian Roberto
+- Danna Julieth Salcedo Corso
 
 Proyecto académico desarrollado en Python.
+
 
 ## 9. Repositorio
 
