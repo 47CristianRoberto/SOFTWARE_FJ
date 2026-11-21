@@ -74,7 +74,7 @@ python pruebas_reservas.py
 
 ## 8. Autores
 
-- Cristian Roberto
+- Cristian Andres Roberto
 - Danna Julieth Salcedo Corso
 
 Proyecto académico desarrollado en Python.
